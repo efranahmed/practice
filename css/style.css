@@ -1,0 +1,39 @@
+h2{
+	color:red;
+}
+.head1{
+
+	background:black; 
+}
+.red{
+
+	border:5px dashed red;
+}
+
+
+
+#heading1{
+
+	color:blue;
+font-size:60px; 
+background-color:black;
+}
+
+.box{
+
+width:100px; 
+height: 100px;
+background-color: purple;
+}
+.black{
+
+width: 30%;
+
+height:200px;
+background-color:blue;
+
+}
+
+
+
+	
